@@ -1,1 +1,17 @@
-
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #c0d3fa;
+    margin: 50px;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 3);
+    text-align: center;
+  }
+  
+  p {
+    color: #333;
+    line-height: 1.5;
+    text-align: center;
+  }
