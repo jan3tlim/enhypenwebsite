@@ -1,1 +1,23 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #f5f6d5;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    background-color: #fff;  
+    width: 80%;
+    margin: 50px auto; 
+    padding: 20px;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 3);
+    text-align: center;
+  }
+  
+  p {
+    color: #333;
+    line-height: 1.5;
+  }
 
